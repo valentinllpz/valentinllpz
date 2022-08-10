@@ -24,6 +24,7 @@ Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/hom
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F5DB18?style=for-the-badge&logo=javascript&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.Js&logoColor=white)
 ![NESTJS](https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![KUBERNETES](https://img.shields.io/badge/-Kubernetes-grey?logo=Kubernetes&logoColor=white)
