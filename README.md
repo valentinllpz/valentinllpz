@@ -29,4 +29,4 @@ Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/hom
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-grey?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
-![FIGMA](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=Figma&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-Figma-0ACF83?style=for-the-badge&logo=Figma&logoColor=white)
