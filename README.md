@@ -9,7 +9,7 @@ Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/hom
 - [Transcendance](https://github.com/valentinllpz/Transcendence): an online Pong with many social features built in TypeScript (React/NextJS and NestJS).
 - [Webserv](https://github.com/valentinllpz/Webserv): a web server based on Nginx built from scratch in C++.
 - [cub3D](https://github.com/valentinllpz/cub3d) : a video game demo in C using the Ray Casting technique to render in 3D a given map and sprites.
-- [Minishell](https://github.com/valentinllpz/Transcendence): a minimalistic shell built from scratch in C.
+- [Minishell](https://github.com/valentinllpz/minishell): a minimalistic shell built from scratch in C.
 - [ft_services](https://github.com/valentinllpz/ft_services): web platform running multiples services in containers orchestrated with Kubernetes.
 
 ## 🧑‍🎓 Testers for 42 students
@@ -29,3 +29,4 @@ Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/hom
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-grey?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=Figma&logoColor=white)
