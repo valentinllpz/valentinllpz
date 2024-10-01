@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Welcome to my Github homepage</h1>
 
-Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/homepage/) alumni and a junior developper eager to learn.
+Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/homepage/) alumni and a full stack developper eager to learn.
 </div>
 
 ## ⭐ My favourites projects
