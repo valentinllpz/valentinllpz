@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Welcome to my Github homepage</h1>
 
-Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/homepage/) alumni and a full stack developper eager to learn.
+Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/homepage/) alumni and a full stack developper.
 </div>
 
-## ⭐ My favourites projects
+## ⭐ Highlighted projects
 
 - [Portfolio](https://github.com/valentinllpz/portefolio_v2): My portfolio made with Next JS + Typescript.
 - [Transcendance](https://github.com/valentinllpz/Transcendence): an online Pong with many social features built in TypeScript (React/NextJS and NestJS).
