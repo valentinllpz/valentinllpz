@@ -6,7 +6,7 @@ Hello ! My name is Valentin Lugand-Lopez, I am a [42 Paris](https://42.fr/en/hom
 
 ## ⭐ My favourites projects
 
-- [Portfolio](https://github.com/valentinllpz/Portfolio): My first portfolio made with Next JS + Typescript.
+- [Portfolio](https://github.com/valentinllpz/portefolio_v2): My portfolio made with Next JS + Typescript.
 - [Transcendance](https://github.com/valentinllpz/Transcendence): an online Pong with many social features built in TypeScript (React/NextJS and NestJS).
 - [Webserv](https://github.com/valentinllpz/Webserv): a web server based on Nginx built from scratch in C++.
 - [cub3D](https://github.com/valentinllpz/cub3d) : a video game demo in C using the Ray Casting technique to render in 3D a given map and sprites.
